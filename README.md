@@ -1,7 +1,8 @@
 Тестовое задание на стажировку JavaRush
 
 [Скрипт для создания таблицы в БД и наполнения ее данными](https://github.com/Anel7/InternshipCRUD/blob/master/src/main/resources/DBCreation.sql)<br>
-расположен по адресу /src/main/resources/DBCreation.sql<br>
+расположен по адресу /src/main/resources/DBCreation.sql
+
 Подключение к БД: database: test | username: root | password: root
 
 Реализованная функциональность (помимо удаления/создания/редактирования записей):<br>
